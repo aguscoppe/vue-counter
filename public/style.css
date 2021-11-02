@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+  cursor: pointer;
+  margin: 10px;
+  border: none;
+  width: 25px;
+  height: 25px;
+}
